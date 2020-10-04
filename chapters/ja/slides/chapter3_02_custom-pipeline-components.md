@@ -98,7 +98,7 @@ print("Pipeline:", nlp.pipe_names)
 ```
 
 ```out
-Pipeline: ['custom_component', 'tagger', parser', 'ner']
+Pipeline: ['custom_component', 'tagger', 'parser', 'ner']
 ```
 
 Notes: 簡単なコンポーネントの例をみていきます。
